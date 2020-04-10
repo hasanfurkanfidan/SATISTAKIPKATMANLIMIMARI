@@ -1,0 +1,11 @@
+C:\Users\Furkan\source\repos\OOPSTOK\BUSINESSLOGICLAYER\bin\Debug\BUSINESSLOGICLAYER.dll
+C:\Users\Furkan\source\repos\OOPSTOK\BUSINESSLOGICLAYER\bin\Debug\BUSINESSLOGICLAYER.pdb
+C:\Users\Furkan\source\repos\OOPSTOK\BUSINESSLOGICLAYER\bin\Debug\DATAACCESSLAYER.dll
+C:\Users\Furkan\source\repos\OOPSTOK\BUSINESSLOGICLAYER\bin\Debug\ENTITYLAYER.dll
+C:\Users\Furkan\source\repos\OOPSTOK\BUSINESSLOGICLAYER\bin\Debug\DATAACCESSLAYER.pdb
+C:\Users\Furkan\source\repos\OOPSTOK\BUSINESSLOGICLAYER\bin\Debug\ENTITYLAYER.pdb
+C:\Users\Furkan\source\repos\OOPSTOK\BUSINESSLOGICLAYER\obj\Debug\BUSINESSLOGICLAYER.csprojAssemblyReference.cache
+C:\Users\Furkan\source\repos\OOPSTOK\BUSINESSLOGICLAYER\obj\Debug\BUSINESSLOGICLAYER.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\OOPSTOK\BUSINESSLOGICLAYER\obj\Debug\BUSINESSLOGICLAYER.csproj.CopyComplete
+C:\Users\Furkan\source\repos\OOPSTOK\BUSINESSLOGICLAYER\obj\Debug\BUSINESSLOGICLAYER.dll
+C:\Users\Furkan\source\repos\OOPSTOK\BUSINESSLOGICLAYER\obj\Debug\BUSINESSLOGICLAYER.pdb

@@ -1,0 +1,6 @@
+C:\Users\Furkan\source\repos\OOPSTOK\ENTITYLAYER\bin\Debug\ENTITYLAYER.dll
+C:\Users\Furkan\source\repos\OOPSTOK\ENTITYLAYER\bin\Debug\ENTITYLAYER.pdb
+C:\Users\Furkan\source\repos\OOPSTOK\ENTITYLAYER\obj\Debug\ENTITYLAYER.csprojAssemblyReference.cache
+C:\Users\Furkan\source\repos\OOPSTOK\ENTITYLAYER\obj\Debug\ENTITYLAYER.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\OOPSTOK\ENTITYLAYER\obj\Debug\ENTITYLAYER.dll
+C:\Users\Furkan\source\repos\OOPSTOK\ENTITYLAYER\obj\Debug\ENTITYLAYER.pdb

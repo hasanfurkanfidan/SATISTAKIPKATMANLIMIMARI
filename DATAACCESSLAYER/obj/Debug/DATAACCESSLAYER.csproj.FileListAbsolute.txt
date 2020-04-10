@@ -1,0 +1,9 @@
+C:\Users\Furkan\source\repos\OOPSTOK\DATAACCESSLAYER\bin\Debug\DATAACCESSLAYER.dll
+C:\Users\Furkan\source\repos\OOPSTOK\DATAACCESSLAYER\bin\Debug\DATAACCESSLAYER.pdb
+C:\Users\Furkan\source\repos\OOPSTOK\DATAACCESSLAYER\bin\Debug\ENTITYLAYER.dll
+C:\Users\Furkan\source\repos\OOPSTOK\DATAACCESSLAYER\bin\Debug\ENTITYLAYER.pdb
+C:\Users\Furkan\source\repos\OOPSTOK\DATAACCESSLAYER\obj\Debug\DATAACCESSLAYER.csprojAssemblyReference.cache
+C:\Users\Furkan\source\repos\OOPSTOK\DATAACCESSLAYER\obj\Debug\DATAACCESSLAYER.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\OOPSTOK\DATAACCESSLAYER\obj\Debug\DATAACCESSLAYER.csproj.CopyComplete
+C:\Users\Furkan\source\repos\OOPSTOK\DATAACCESSLAYER\obj\Debug\DATAACCESSLAYER.dll
+C:\Users\Furkan\source\repos\OOPSTOK\DATAACCESSLAYER\obj\Debug\DATAACCESSLAYER.pdb
